@@ -1,5 +1,5 @@
 module.exports = {
-    'TelegramUrl': 'https://janjerbar42.herokuapp.net', // like https://mybot.herokuapp.net
+    'TelegramUrl': 'https://janjerbar42.herokuapp.com', // like https://mybot.herokuapp.net
     'TelegramToken': '1492781126:AAHjR5fxt_69yc0aWUmhM4TC3MZnSq0tKww', // Telegram bot token that you should obtain from @botFather in Telegram
     'ByteScoutAPIKEY': "soryasady03@gmail.com_d6edc38670e2a00d", // bytescout cloud api token, get one at https://bytescout.com/products/developer/cloudapi/index.html
     'WelcomeMessage': "أهلييين فيك بمصنع الورق 🙈 انا ابن هاد البوت @Sy404_bot وهاد المطور الغبي لي صنعني 🙂 @Mr00Lucifer بحبكم 🥺❤️ ماترشوني رش طلبات🥺🥺!",
