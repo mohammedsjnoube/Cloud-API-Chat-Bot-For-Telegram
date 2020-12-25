@@ -1,7 +1,7 @@
 module.exports = {
-    'TelegramUrl': 'https://janjerbar42.herokuapp.com', // like https://mybot.herokuapp.net
-    'TelegramToken': '1492781126:AAHjR5fxt_69yc0aWUmhM4TC3MZnSq0tKww', // Telegram bot token that you should obtain from @botFather in Telegram
-    'ByteScoutAPIKEY': "soryasady03@gmail.com_d6edc38670e2a00d", // bytescout cloud api token, get one at https://bytescout.com/products/developer/cloudapi/index.html
+    'TelegramUrl': 'https://janjerbar42.herokuapp.com'
+    'TelegramToken': '1492781126:AAHjR5fxt_69yc0aWUmhM4TC3MZnSq0tKww'
+    'ByteScoutAPIKEY': "soryasady03@gmail.com_d6edc38670e2a00d"
     'WelcomeMessage': "أهلييين فيك بمصنع الورق 🙈 انا ابن هاد البوت @Sy404_bot وهاد المطور الغبي لي صنعني 🙂 @Mr00Lucifer بحبكم 🥺❤️ ماترشوني رش طلبات🥺🥺!",
     'UnknownCommand': "امر غير معروف ياعمو 🙂. ضغاط  /start لتشوف كل الخيارات لي متاحة عندك🙂 لماشي رح اشتكي عليك ع فرع الجرائم الإلكترونية🙂🙂",
     'SuccessMessage': "تكرااام تم. ضغاط  /start لتشوف كل الخيارات", 
